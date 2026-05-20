@@ -1,0 +1,4 @@
+﻿  MyLinkList.c
+D:\develop\vsc\MyLinkList\MyLinkList.c(41,3): warning C4033: “initLL”必须返回值
+D:\develop\vsc\MyLinkList\MyLinkList.c(46,1): warning C4715: “initLL”: 不是所有的控件路径都返回值
+  MyLinkList.vcxproj -> D:\develop\vsc\MyLinkList\x64\Debug\MyLinkList.exe
